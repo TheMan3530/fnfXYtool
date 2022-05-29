@@ -19,6 +19,6 @@ Linux:
 
 Make sure to not close the window immediately after compiling, as you need access to it in the command line to see your coordinates.
 
-Alternatively, you can use - `lime test html5` to run it on your browser, however I don't recommend this.
+Alternatively, you can use  `lime test html5` to run it on your browser, however I don't recommend this.
 
 Happy modding!
