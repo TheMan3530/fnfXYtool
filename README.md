@@ -5,7 +5,9 @@ So this is the source code for the FNF tool.
 # How to build
 
 Step 1. Install [Haxe](https://haxe.org), if you haven't already. You will also need it for other aspects of FNF modding.
+
 Step 2. Install [HaxeFlixel](https://haxeflixel.com). Don't forget the UI and ADDONS packages!
+
 Step 3. Run the tool. Simply open a command line for the the folder (not just source, it has to also cover the Project.xml), then type in the following command.
 
 If you are on Windows: 
